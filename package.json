@@ -1,0 +1,15 @@
+{
+  "name": "clase_17",
+  "version": "1.0.0",
+  "description": "Practica Clase 17 - Emilia Cole",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emiliano Ferreyra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
