@@ -27,7 +27,6 @@
 .music_navegador_lista ul li {
     display: inline;
     margin: 30px 10px 10px;
-    border-left: 2px solid black;
 }
 
 .music_navegador_redes ul {
