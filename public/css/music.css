@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.music_header{
+    background-image: url("/img/emilia-music-top.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    height: 150px;
+    padding: 30px 0px;
+}
+
+.music_navegador_lista ul {
+    text-transform: uppercase;
+    background-color: rgba(255, 255, 255, 0.4);
+    margin-left: 10px;
+    margin-right: 5px;
+    padding: 20px;
+}
+
+.music_navegador_lista ul li {
+    display: inline;
+    margin: 30px 10px 10px;
+    border-left: 2px solid black;
+}
+
+.music_navegador_redes ul {
+    margin-top: 20px;
+    margin-right: 5px;
+}
+
+.music_navegador_redes ul li {
+    display: inline;
+}
+
+.music_body_titulo h1 {
+    text-transform: uppercase;
+    font-size: 70px;
+    margin: 50px 10px;
+}
+
+.music_body_margen {
+    margin: 70px 10px;
+}
+
+.music_margen_links {
+    margin-left: 35px;
+    margin-top: 20px;
+    color: gray;
+}
+
+section article h3 {
+    margin-bottom: 20px;
+}
+
+section ol {
+    margin: 20px 30px;
+}
+
+section ol li {
+    margin: 20px 10px;
+    list-style: decimal;
+}
+
+section p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height:24px;
+}
